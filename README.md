@@ -48,6 +48,4 @@ If you have additional resources that could be useful to the community, feel fre
 
 If you have any questions or suggestions, you can reach me via [my GitHub profile](https://github.com/ronaldespinozaa) or send me an email.
 
----
-© 2024 Your Name. All rights reserved.
 
