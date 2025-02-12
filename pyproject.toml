@@ -13,7 +13,11 @@ notebook = "^7.2.2"
 pandas = "^2.2.2"
 sqlalchemy = "^2.0.34"
 pydantic = "^2.9.1"
+<<<<<<< HEAD
 scikit-learn= "^1.6.1"
+=======
+scikit-learn = "^1.5.2"
+>>>>>>> a1ffdcb185e5245cdae5c44cbf9396df28c6dd51
 numpy = "^1.5.1"
 matplotlib = "^3.9.2"
 statsmodels = "^0.14.2"
@@ -38,6 +42,7 @@ requests = "^2.32.3"
 kagglehub = "^0.3.6"
 astral = "^3.2"
 skforecast = "^0.14.0"
+<<<<<<< HEAD
 pmdarima = "^2.0.4"
 catboost = "^1.2.7"
 shap = "^0.46.0"
@@ -46,6 +51,8 @@ fitz = "^0.0.1.dev2"
 frontend = "^0.0.3"
 pymupdf = "^1.25.3"
 lime = "^0.2.0.1"
+=======
+>>>>>>> a1ffdcb185e5245cdae5c44cbf9396df28c6dd51
 
 
 
