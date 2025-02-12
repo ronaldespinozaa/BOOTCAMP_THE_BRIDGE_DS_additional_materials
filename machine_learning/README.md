@@ -1,6 +1,6 @@
 # 🚀 Machine Learning Bootcamp Guide
 
-Welcome to the **Machine Learning Bootcamp**. 📚 This guide will serve as a reference to help you make the most of your learning experience during the course.
+📚 This guide will serve as a reference to help you make the most of your learning experience during the course.
 
 ## 📋 Bootcamp Content
 
