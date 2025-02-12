@@ -169,6 +169,6 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
-3-Prophet
-2-Forecasting_Gradient_Boosting_resum
-Practica_TimeSeries
+3-Prophet.ipynb
+2-Forecasting_Gradient_Boosting_resum.ipynb
+Practica_TimeSeries.ipynb
