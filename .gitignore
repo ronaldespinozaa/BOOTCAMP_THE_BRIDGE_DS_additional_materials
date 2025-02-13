@@ -172,3 +172,5 @@ cython_debug/
 3-Prophet.ipynb
 2-Forecasting_Gradient_Boosting_resum.ipynb
 Practica_TimeSeries.ipynb
+.toml/
+.lock/
